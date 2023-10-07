@@ -1,0 +1,85 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+im {
+    max-width: 100%;
+    width: 100%;
+}
+
+
+header img{
+    width: 250px;
+    height: 200px;
+}
+
+footer {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    text-align: center;
+    background-color: grey;
+}
+
+li, a{
+    text-decoration: none;
+    list-style: none;
+    color: white;
+    font-size: large;
+}
+
+.icono-redes{
+    width: 40px;
+}
+
+main section h1{
+    text-align: center;
+}
+
+main section div h2{
+    text-align: center;
+}
+
+main section div p{
+    text-align: center;
+}
+
+main section div img{
+    height: 400px;
+    width: 400px;
+}
+
+.login{
+    margin: 60px;
+}
+
+.colorRed{
+    margin: 5px;
+    background-color: red;
+}
+
+.colorGreen{
+    margin: 5px;
+    background-color: green;
+}
+
+.loginARegister{
+    color: grey;
+}
+
+.fondoAcerca{
+    background-color: antiquewhite;
+}
+
+.textoCentrado{
+    text-align: center;
+}
+
+.formulario{
+    padding: 25px;
+}
+
+.formulario div{
+    margin: 3px;
+}

@@ -1,0 +1,7 @@
+ADMIN:
+email:santi.v-10@hotmail.com
+clave:santi123
+
+CLIENTE:
+email:sofia123@gmail.com
+clave:sofia456
